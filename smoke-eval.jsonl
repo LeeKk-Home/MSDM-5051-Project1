@@ -1,0 +1,28 @@
+{"id": "eval-english-20", "category": "english", "text": "Record 20: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "eval-chinese-20", "category": "chinese", "text": "第20段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "eval-code-20", "category": "code", "text": "def square_20(value):\n    # preserve indentation\n    return value * value + 20\n"}
+{"id": "eval-unicode-20", "category": "unicode", "text": "sample 20\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "eval-repetitive-20", "category": "repetitive", "text": "item20 abababa abababa abababa abababa item20 abababa abababa abababa abababa item20 abababa abababa abababa abababa "}
+{"id": "eval-english-21", "category": "english", "text": "Record 21: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "eval-chinese-21", "category": "chinese", "text": "第21段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "eval-code-21", "category": "code", "text": "def square_21(value):\n    # preserve indentation\n    return value * value + 21\n"}
+{"id": "eval-unicode-21", "category": "unicode", "text": "sample 21\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "eval-repetitive-21", "category": "repetitive", "text": "item21 abababa abababa item21 abababa abababa item21 abababa abababa "}
+{"id": "eval-english-22", "category": "english", "text": "Record 22: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "eval-chinese-22", "category": "chinese", "text": "第22段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "eval-code-22", "category": "code", "text": "def square_22(value):\n    # preserve indentation\n    return value * value + 22\n"}
+{"id": "eval-unicode-22", "category": "unicode", "text": "sample 22\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "eval-repetitive-22", "category": "repetitive", "text": "item22 abababa abababa abababa item22 abababa abababa abababa item22 abababa abababa abababa "}
+{"id": "eval-english-23", "category": "english", "text": "Record 23: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "eval-chinese-23", "category": "chinese", "text": "第23段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "eval-code-23", "category": "code", "text": "def square_23(value):\n    # preserve indentation\n    return value * value + 23\n"}
+{"id": "eval-unicode-23", "category": "unicode", "text": "sample 23\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "eval-repetitive-23", "category": "repetitive", "text": "item23 abababa abababa abababa abababa item23 abababa abababa abababa abababa item23 abababa abababa abababa abababa "}
+{"id": "eval-english-24", "category": "english", "text": "Record 24: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "eval-chinese-24", "category": "chinese", "text": "第24段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "eval-code-24", "category": "code", "text": "def square_24(value):\n    # preserve indentation\n    return value * value + 24\n"}
+{"id": "eval-unicode-24", "category": "unicode", "text": "sample 24\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "eval-repetitive-24", "category": "repetitive", "text": "item24 abababa abababa item24 abababa abababa item24 abababa abababa "}
+{"id": "eval-empty", "category": "unicode", "text": ""}
+{"id": "eval-unseen", "category": "unicode", "text": "龘🧬𐐀\u0000\r\n"}
+{"id": "eval-long", "category": "repetitive", "text": "abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa abababa  unique ending"}

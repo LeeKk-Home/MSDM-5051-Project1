@@ -1,0 +1,60 @@
+{"id": "train-english-0", "category": "english", "text": "Record 0: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-0", "category": "chinese", "text": "第0段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-0", "category": "code", "text": "def square_0(value):\n    # preserve indentation\n    return value * value + 0\n"}
+{"id": "train-unicode-0", "category": "unicode", "text": "sample 0\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-0", "category": "repetitive", "text": "item0 abababa abababa item0 abababa abababa item0 abababa abababa "}
+{"id": "train-english-1", "category": "english", "text": "Record 1: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-1", "category": "chinese", "text": "第1段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-1", "category": "code", "text": "def square_1(value):\n    # preserve indentation\n    return value * value + 1\n"}
+{"id": "train-unicode-1", "category": "unicode", "text": "sample 1\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-1", "category": "repetitive", "text": "item1 abababa abababa abababa item1 abababa abababa abababa item1 abababa abababa abababa "}
+{"id": "train-english-2", "category": "english", "text": "Record 2: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-2", "category": "chinese", "text": "第2段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-2", "category": "code", "text": "def square_2(value):\n    # preserve indentation\n    return value * value + 2\n"}
+{"id": "train-unicode-2", "category": "unicode", "text": "sample 2\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-2", "category": "repetitive", "text": "item2 abababa abababa abababa abababa item2 abababa abababa abababa abababa item2 abababa abababa abababa abababa "}
+{"id": "train-english-3", "category": "english", "text": "Record 3: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-3", "category": "chinese", "text": "第3段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-3", "category": "code", "text": "def square_3(value):\n    # preserve indentation\n    return value * value + 3\n"}
+{"id": "train-unicode-3", "category": "unicode", "text": "sample 3\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-3", "category": "repetitive", "text": "item3 abababa abababa item3 abababa abababa item3 abababa abababa "}
+{"id": "train-english-4", "category": "english", "text": "Record 4: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-4", "category": "chinese", "text": "第4段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-4", "category": "code", "text": "def square_4(value):\n    # preserve indentation\n    return value * value + 4\n"}
+{"id": "train-unicode-4", "category": "unicode", "text": "sample 4\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-4", "category": "repetitive", "text": "item4 abababa abababa abababa item4 abababa abababa abababa item4 abababa abababa abababa "}
+{"id": "train-english-5", "category": "english", "text": "Record 5: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-5", "category": "chinese", "text": "第5段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-5", "category": "code", "text": "def square_5(value):\n    # preserve indentation\n    return value * value + 5\n"}
+{"id": "train-unicode-5", "category": "unicode", "text": "sample 5\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-5", "category": "repetitive", "text": "item5 abababa abababa abababa abababa item5 abababa abababa abababa abababa item5 abababa abababa abababa abababa "}
+{"id": "train-english-6", "category": "english", "text": "Record 6: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-6", "category": "chinese", "text": "第6段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-6", "category": "code", "text": "def square_6(value):\n    # preserve indentation\n    return value * value + 6\n"}
+{"id": "train-unicode-6", "category": "unicode", "text": "sample 6\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-6", "category": "repetitive", "text": "item6 abababa abababa item6 abababa abababa item6 abababa abababa "}
+{"id": "train-english-7", "category": "english", "text": "Record 7: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-7", "category": "chinese", "text": "第7段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-7", "category": "code", "text": "def square_7(value):\n    # preserve indentation\n    return value * value + 7\n"}
+{"id": "train-unicode-7", "category": "unicode", "text": "sample 7\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-7", "category": "repetitive", "text": "item7 abababa abababa abababa item7 abababa abababa abababa item7 abababa abababa abababa "}
+{"id": "train-english-8", "category": "english", "text": "Record 8: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-8", "category": "chinese", "text": "第8段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-8", "category": "code", "text": "def square_8(value):\n    # preserve indentation\n    return value * value + 8\n"}
+{"id": "train-unicode-8", "category": "unicode", "text": "sample 8\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-8", "category": "repetitive", "text": "item8 abababa abababa abababa abababa item8 abababa abababa abababa abababa item8 abababa abababa abababa abababa "}
+{"id": "train-english-9", "category": "english", "text": "Record 9: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-9", "category": "chinese", "text": "第9段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-9", "category": "code", "text": "def square_9(value):\n    # preserve indentation\n    return value * value + 9\n"}
+{"id": "train-unicode-9", "category": "unicode", "text": "sample 9\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-9", "category": "repetitive", "text": "item9 abababa abababa item9 abababa abababa item9 abababa abababa "}
+{"id": "train-english-10", "category": "english", "text": "Record 10: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-10", "category": "chinese", "text": "第10段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-10", "category": "code", "text": "def square_10(value):\n    # preserve indentation\n    return value * value + 10\n"}
+{"id": "train-unicode-10", "category": "unicode", "text": "sample 10\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-10", "category": "repetitive", "text": "item10 abababa abababa abababa item10 abababa abababa abababa item10 abababa abababa abababa "}
+{"id": "train-english-11", "category": "english", "text": "Record 11: algorithms transform text into tokens. A small tokenizer learns repeated patterns and preserves every space.\n"}
+{"id": "train-chinese-11", "category": "chinese", "text": "第11段：算法把文本转成词元。我们比较运行速度、词表大小和序列长度，并保留所有空格。你好，香港！\n"}
+{"id": "train-code-11", "category": "code", "text": "def square_11(value):\n    # preserve indentation\n    return value * value + 11\n"}
+{"id": "train-unicode-11", "category": "unicode", "text": "sample 11\t中文 English café é 🙂🚀\n  two spaces\n"}
+{"id": "train-repetitive-11", "category": "repetitive", "text": "item11 abababa abababa abababa abababa item11 abababa abababa abababa abababa item11 abababa abababa abababa abababa "}
